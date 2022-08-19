@@ -36,7 +36,7 @@
 
  ## 03 - Brief Description about framework Approach
  - Reports created using ExtentReports and ScreenShots captured for failed scenarios
- - Logs are maintaning in separate test file
+ - Logs are maintaning in separate text file
  - In Project solution 
  
      ###### 1. ObjectRepsitoryLibrary : 
@@ -46,7 +46,7 @@
      which contains the methods which are specific to the respective pages
        
     ###### 4. BDDFramework(SpecFlow Project) 
-       Feature files
-       Stepdefination files
-       Hooks
+       Feature files : We can include all scenarios in Feature files
+       Stepdefination files : We can define all scenarios under stepdefination class files
+       BddHooks : We write code snippets that run before or after each scenario/step/Test
 
