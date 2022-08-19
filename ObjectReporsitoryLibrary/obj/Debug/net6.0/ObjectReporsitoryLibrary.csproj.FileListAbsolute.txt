@@ -1,0 +1,12 @@
+C:\Thirumala\PersonalDocs\TFLCodeChallenge2022\ObjectReporsitoryLibrary\bin\Debug\net6.0\ObjectReporsitoryLibrary.deps.json
+C:\Thirumala\PersonalDocs\TFLCodeChallenge2022\ObjectReporsitoryLibrary\bin\Debug\net6.0\ObjectReporsitoryLibrary.dll
+C:\Thirumala\PersonalDocs\TFLCodeChallenge2022\ObjectReporsitoryLibrary\bin\Debug\net6.0\ObjectReporsitoryLibrary.pdb
+C:\Thirumala\PersonalDocs\TFLCodeChallenge2022\ObjectReporsitoryLibrary\obj\Debug\net6.0\ObjectReporsitoryLibrary.csproj.AssemblyReference.cache
+C:\Thirumala\PersonalDocs\TFLCodeChallenge2022\ObjectReporsitoryLibrary\obj\Debug\net6.0\ObjectReporsitoryLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Thirumala\PersonalDocs\TFLCodeChallenge2022\ObjectReporsitoryLibrary\obj\Debug\net6.0\ObjectReporsitoryLibrary.AssemblyInfoInputs.cache
+C:\Thirumala\PersonalDocs\TFLCodeChallenge2022\ObjectReporsitoryLibrary\obj\Debug\net6.0\ObjectReporsitoryLibrary.AssemblyInfo.cs
+C:\Thirumala\PersonalDocs\TFLCodeChallenge2022\ObjectReporsitoryLibrary\obj\Debug\net6.0\ObjectReporsitoryLibrary.csproj.CoreCompileInputs.cache
+C:\Thirumala\PersonalDocs\TFLCodeChallenge2022\ObjectReporsitoryLibrary\obj\Debug\net6.0\ObjectReporsitoryLibrary.dll
+C:\Thirumala\PersonalDocs\TFLCodeChallenge2022\ObjectReporsitoryLibrary\obj\Debug\net6.0\refint\ObjectReporsitoryLibrary.dll
+C:\Thirumala\PersonalDocs\TFLCodeChallenge2022\ObjectReporsitoryLibrary\obj\Debug\net6.0\ObjectReporsitoryLibrary.pdb
+C:\Thirumala\PersonalDocs\TFLCodeChallenge2022\ObjectReporsitoryLibrary\obj\Debug\net6.0\ref\ObjectReporsitoryLibrary.dll

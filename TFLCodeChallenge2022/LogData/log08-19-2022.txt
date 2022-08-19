@@ -1,0 +1,72 @@
+8/19/2022 2:50:15 PM:I can Launch TFL application and do my journey plan
+
+8/19/2022 2:50:30 PM:I can click on Edit Journey button for change my journey details
+
+8/19/2022 2:50:31 PM:Updated the Journey preferences
+
+8/19/2022 2:50:31 PM:I Change My preferences
+
+8/19/2022 2:50:32 PM:I  Save the preferences and click on UpdateJourney button
+
+19-08-2022 14:49:50:Validated updated journey details
+
+8/19/2022 2:50:32 PM:I can view my journey details updated successfully
+
+8/19/2022 2:50:57 PM:I can Launch TFL application and do my journey plan
+
+8/19/2022 2:50:58 PM:I Navigate to Plan My Journey and click on Recents tab
+
+19-08-2022 14:49:50:Validated the Recent Journey plans
+
+8/19/2022 2:51:19 PM:I can view the List of my Recent journey plans
+
+8/19/2022 2:51:28 PM:I launched TFL portal and Enter valid Source "Penge West Rail Station" and  Destination "Liverpool Street"
+
+8/19/2022 2:51:28 PM:Click on ChangeTime Link
+
+8/19/2022 2:51:28 PM:Select the Arriving Option
+
+8/19/2022 2:51:28 PM:Select Date "Sat 27 Aug" and Time "07:00"
+
+8/19/2022 2:51:45 PM:I can click on PlanMyJourney button
+
+8/19/2022 2:51:50 PM:We found more than one location matching 'Liverpool Street'
+
+8/19/2022 2:51:52 PM: Validation is done in Journey results page 
+
+8/19/2022 2:51:52 PM:I can view and validate the journey results page
+
+8/19/2022 2:52:01 PM:I launch TFL portal and Enter Invalid Source and Destination As "XXX" and "YYY"
+
+8/19/2022 2:52:17 PM:I can click on PlanMyJourney button
+
+8/19/2022 2:52:17 PM : Validated the Error validation
+
+8/19/2022 2:52:17 PM:I can not view the Journey results
+
+8/19/2022 2:52:27 PM:I launched TFL portal and Enter Journey Time without  giving the source and destions
+
+8/19/2022 2:52:42 PM:I can click on PlanMyJourney button
+
+8/19/2022 2:52:42 PM : Mandatory fields validation done
+ 
+8/19/2022 2:52:42 PM:I can view  monadatory fields validations on From and To fields
+
+8/19/2022 2:52:51 PM:I can enter valid Penge West Rail Station and Liverpool Street
+
+8/19/2022 2:53:08 PM:I can click on PlanMyJourney button
+
+8/19/2022 2:53:13 PM:We found more than one location matching 'Liverpool Street'
+
+8/19/2022 2:53:15 PM: Validation is done in Journey results page 
+
+8/19/2022 2:53:15 PM:I can view "Journey results"
+
+8/19/2022 2:53:24 PM:I can enter valid Heathrow Airport Terminal 4 and Romford Rail Station
+
+8/19/2022 2:53:40 PM:I can click on PlanMyJourney button
+
+8/19/2022 2:53:40 PM: Validation is done in Journey results page 
+
+8/19/2022 2:53:40 PM:I can view "Journey results"
+

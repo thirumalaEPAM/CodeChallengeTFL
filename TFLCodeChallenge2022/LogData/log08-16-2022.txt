@@ -1,0 +1,11 @@
+8/16/2022 12:00:00 AM : Enter Source: Penge West Rail StationDestination : Liverpool Street
+8/16/2022 12:00:00 AM : Enter Source: Heathrow Airport Terminal 4Destination : Romford Rail Station
+8/16/2022 12:00:00 AM : Scenario 1 : I can plan my journey successfully
+ 
+8/16/2022 12:00:00 AM : Enter Source: Penge West Rail Station Destination : Liverpool Street
+8/16/2022 12:00:00 AM : Click on Plan My journey button 
+8/16/2022 12:00:00 AM : After click on Plan My Journey button , I can view the Journey results
+8/16/2022 12:00:00 AM : Scenario 1 : I can plan my journey successfully
+ 
+8/16/2022 12:00:00 AM : Enter Source: Heathrow Airport Terminal 4 Destination : Romford Rail Station
+8/16/2022 12:00:00 AM : Click on Plan My journey button 

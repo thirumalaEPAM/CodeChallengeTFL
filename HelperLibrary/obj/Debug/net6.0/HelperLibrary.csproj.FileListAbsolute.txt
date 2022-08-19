@@ -1,0 +1,15 @@
+C:\Thirumala\PersonalDocs\TFLCodeChallenge2022\HelperLibrary\bin\Debug\net6.0\HelperLibrary.deps.json
+C:\Thirumala\PersonalDocs\TFLCodeChallenge2022\HelperLibrary\bin\Debug\net6.0\HelperLibrary.dll
+C:\Thirumala\PersonalDocs\TFLCodeChallenge2022\HelperLibrary\bin\Debug\net6.0\HelperLibrary.pdb
+C:\Thirumala\PersonalDocs\TFLCodeChallenge2022\HelperLibrary\obj\Debug\net6.0\HelperLibrary.csproj.AssemblyReference.cache
+C:\Thirumala\PersonalDocs\TFLCodeChallenge2022\HelperLibrary\obj\Debug\net6.0\HelperLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Thirumala\PersonalDocs\TFLCodeChallenge2022\HelperLibrary\obj\Debug\net6.0\HelperLibrary.AssemblyInfoInputs.cache
+C:\Thirumala\PersonalDocs\TFLCodeChallenge2022\HelperLibrary\obj\Debug\net6.0\HelperLibrary.AssemblyInfo.cs
+C:\Thirumala\PersonalDocs\TFLCodeChallenge2022\HelperLibrary\obj\Debug\net6.0\HelperLibrary.csproj.CoreCompileInputs.cache
+C:\Thirumala\PersonalDocs\TFLCodeChallenge2022\HelperLibrary\obj\Debug\net6.0\HelperLibrary.dll
+C:\Thirumala\PersonalDocs\TFLCodeChallenge2022\HelperLibrary\obj\Debug\net6.0\refint\HelperLibrary.dll
+C:\Thirumala\PersonalDocs\TFLCodeChallenge2022\HelperLibrary\obj\Debug\net6.0\HelperLibrary.pdb
+C:\Thirumala\PersonalDocs\TFLCodeChallenge2022\HelperLibrary\obj\Debug\net6.0\ref\HelperLibrary.dll
+C:\Thirumala\PersonalDocs\TFLCodeChallenge2022\HelperLibrary\bin\Debug\net6.0\ObjectReporsitoryLibrary.dll
+C:\Thirumala\PersonalDocs\TFLCodeChallenge2022\HelperLibrary\bin\Debug\net6.0\ObjectReporsitoryLibrary.pdb
+C:\Thirumala\PersonalDocs\TFLCodeChallenge2022\HelperLibrary\obj\Debug\net6.0\HelperLibrary.csproj.CopyComplete
