@@ -28,14 +28,17 @@
 
 - Scenario 3: I can not plan my journey with Invalid  Source and Destination locations
 
-- Scenario 4: I can edit my journy details and preferences
+- Scenario 4: I can change my Planjourney based on Arrival time by using ChangeTime option
 
-- Scenario 5:  I can view My recent journey plans
+- Scenario 5: I can edit my journy details and preferences
+
+- Scenario 6:  I can view My recent journey plans
 
  ## 03 - Brief Description about framework Approach
  - Reports created using ExtentReports and ScreenShots captured for failed scenarios
- 
+ - Logs are maintaning in separate test file
  - In Project solution 
+ 
      ###### 1. ObjectRepsitoryLibrary : 
       which contains common utilities, locators (defined in page classfiles), SingletonBaseclass 
        
