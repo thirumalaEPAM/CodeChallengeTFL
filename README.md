@@ -50,10 +50,11 @@
  - In Project solution 
  
      ###### 1. ObjectRepsitoryLibrary : 
-      which contains common utilities, locators (defined in page classfiles), SingletonBaseclass 
+      which contains common utilities, locators (defined in page classfiles), Constants ,SingletonBaseclass 
        
     ###### 2. HelperLibrary : 
      which contains the methods which are specific to the respective pages
+     Brief Summary has given to every method
        
     ###### 4. BDDFramework(SpecFlow Project) 
        Feature files : We can include all scenarios in Feature files
