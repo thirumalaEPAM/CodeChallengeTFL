@@ -20,6 +20,16 @@
    - Logs are maintaining in separate text file
 ###### Browsers
    - Chrome Driver
+###### TestScenarios Exection
+   - Clone the Git code into local 
+   
+   - Update local Nunit console path in Run.bat file   
+    ```
+       C:\Users\Thirumala_Rajolu\.nuget\packages\nunit.consolerunner\3.15.2\tools
+       nunit3-console.exe "C:\Thirumala\PersonalDocs\TFLCodeChallenge2022\TFLCodeChallenge2022\bin\Debug\net6.0\TFLCodeChallenge2022.dll"
+    ```
+   - Execute test scripts by using Run.bat file or  by using Test Explorer from solution
+
 ## 02 - Test Scenarios
 
 - Scenario 1: I can plan my journey successfully	
