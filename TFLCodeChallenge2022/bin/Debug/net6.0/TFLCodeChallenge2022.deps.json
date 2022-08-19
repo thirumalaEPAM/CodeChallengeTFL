@@ -12,6 +12,7 @@
           "FluentAssertions": "6.2.0",
           "HelperLibrary": "1.0.0",
           "Microsoft.NET.Test.Sdk": "17.0.0",
+          "NUnit.ConsoleRunner": "3.15.2",
           "NUnit3TestAdapter": "4.1.0",
           "ObjectReporsitoryLibrary": "1.0.0",
           "Selenium.Support": "3.141.0",
@@ -579,6 +580,7 @@
           }
         }
       },
+      "NUnit.ConsoleRunner/3.15.2": {},
       "NUnit3TestAdapter/4.1.0": {},
       "RazorEngine.NetCore/2.2.6": {
         "dependencies": {
@@ -1881,6 +1883,13 @@
       "sha512": "sha512-u+fz/lXyR4vlamySNAEMrXvh+GhAQiB6/aVZtU5WjivR5zF26Ui0tfteDtWqT90k9D8y6g8rFKYQC97Z7d195w==",
       "path": "nunit/3.13.2",
       "hashPath": "nunit.3.13.2.nupkg.sha512"
+    },
+    "NUnit.ConsoleRunner/3.15.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-oOW0VH9VRt3dZKFulHgEXPgsdYbIP1qbWf1/cQX3t4Tz0Exgmd6MGMOrYTgktZ2o/JOf+MFNYksh267Jrfz+ig==",
+      "path": "nunit.consolerunner/3.15.2",
+      "hashPath": "nunit.consolerunner.3.15.2.nupkg.sha512"
     },
     "NUnit3TestAdapter/4.1.0": {
       "type": "package",
